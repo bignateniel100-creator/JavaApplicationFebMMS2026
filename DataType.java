@@ -2,7 +2,7 @@ public class DataType{
 	public static void main (String [] args){
 			byte age = 80;
 			short quantity = 10000;
-			int population = 27388373;
+			int  population = 27388373;
 			
 			System.out.printf("President Tinubu is %d years old",age);
 			System.out.printf("I ordered %, d quantity of phone in 2026%n", quantity);

@@ -10,7 +10,7 @@ public class Output{
 		
 		//printf method 
 		System.out.printf("Tonye The Greatest is %d years old%n" ,1000000);
-		System.out.printf("My account balance is %, .3%n", 12888000000000.7820);
+		System.out.printf("My account balance is %, .2f%n", 12888000000000.7820);
 		System.out.printf("I bought %d number of %s for %c.2f%n",5,"Apples",'$',8.53);
 		System.out.printf("Do you love Java? %b%n",true);
 		System.out.printf("The cost of fuel increased by 10%% in 2025");

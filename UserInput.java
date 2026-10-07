@@ -28,6 +28,8 @@ public class UserInput{
 		System.out.printf("You are a %s and you are living in %s ", gender, address);
 		System.out.printf("You are %d years old. Nice meeting you%n", age);
 		System.out.printf("Wow you said %b. It means that you are a professional Java Programmer %n", answer);
+		
+		
 		}
 }
 	
