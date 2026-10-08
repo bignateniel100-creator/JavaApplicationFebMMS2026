@@ -12,7 +12,7 @@ public class OperatorPart1{
 		int multiplication = num1 * num2;
 		int addition = num1 + num2;
 		int subtraction = num1 - num2;
-		double division = (double)num1/num2;
+		double division = num1/num2;
 		int remainder = num1%num2;
 		
 		//Compound assignment Operator(+=,-=,*=,/=,%=)
